@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/anuranBarman/2048.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zino-app/graphql-flutter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Tessaro\AndroidStudioProjects" />
