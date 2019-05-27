@@ -30,6 +30,10 @@
           <option name="url" value="https://github.com/DVS2000/FlutterWeb.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/pedromassango/xtimer-flutter-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Tessaro\AndroidStudioProjects\APPs_Test" />
